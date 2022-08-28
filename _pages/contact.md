@@ -2,7 +2,7 @@
 permalink: /contact
 title: "Contact"
 excerpt: "Contact"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /contact/
   - /contact.html

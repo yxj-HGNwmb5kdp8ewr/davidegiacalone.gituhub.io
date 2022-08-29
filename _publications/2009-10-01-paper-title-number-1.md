@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "“All-In-One Test”(AI1): A rapid and easily applicable approach to consumer product testing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2013-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2013
+venue: 'Food Quality and Preference'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Giacalone, D., Bredie, W. L., & Frøst, M. B. (2013). “All-In-One Test”(AI1): A rapid and easily applicable approach to consumer product testing. *Food Quality and Preference, 27*, 108-119.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Methods to collect sensory profiles relying directly on consumers’ perceptions are increasingly employed. A consumer test method simultaneously collecting information about the consumer background, appropriateness rating for specific sensory properties, hedonic ratings and a sensory profile by the Check-All-That-Apply (CATA) technique is reported. In this exploratory “All-In-One Test” (AI1), subjects (N = 160) filled out a questionnaire with demographic and psychographic variables, and appropriateness ratings for specific sensory descriptors of beer. Subsequently, subjects gave hedonic ratings for six beers and assessed the presence of specific sensory properties by CATA. The dataset was analyzed by L-shaped Partial Least Square Regression (L-PLSR) to link product information (X), liking ratings (Y) and consumer background information (Z). The CATA technique effectively discriminated between all beers and identified the underlying sensory dimensions. Consumer psychographics – particularly previous knowledge and interest in beer – explained liking better than demographics. Appropriateness correlated well with liking for some sensory properties, whereas others showed large discrepancy between appropriateness and actual hedonic response. Overall, the AI1 test provided interpretable results concerning consumer perception (sensory/hedonic) of the beers, and revealed relations with consumers’ background information. Initial results with AI1 test show that it is an efficient and versatile approach for exploratory product testing with consumers.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://github.com/yxj-HGNwmb5kdp8ewr/yxj-HGNwmb5kdp8ewr.github.io/blob/master/files/Giacalone%20et%20al%20(2013)%20Food%20Qual%20Prefer.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Giacalone, D., Bredie, W. L., & Frøst, M. B. (2013). “All-In-One Test”(AI1): A rapid and easily applicable approach to consumer product testing. *Food Quality and Preference, 27*, 108-119.

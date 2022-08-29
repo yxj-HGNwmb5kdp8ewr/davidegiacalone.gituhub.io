@@ -3,7 +3,7 @@ title: "“All-In-One Test”(AI1): A rapid and easily applicable approach to co
 collection: publications
 permalink: /publication/2013-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2013
+date: 2012-10-11
 venue: 'Food Quality and Preference'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Giacalone, D., Bredie, W. L., & Frøst, M. B. (2013). “All-In-One Test”(AI1): A rapid and easily applicable approach to consumer product testing. *Food Quality and Preference, 27*, 108-119.'

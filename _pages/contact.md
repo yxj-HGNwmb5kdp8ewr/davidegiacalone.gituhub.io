@@ -1,3 +1,8 @@
+---
+permalink: /contact/
+---
+
+
 Davide Giacalone
 Associate Professor
 The Faculty of Engineering

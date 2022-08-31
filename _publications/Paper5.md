@@ -1,5 +1,5 @@
 ---
-title: "XXX"
+title: "Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts"
 collection: publications
 permalink: /publication/2014-paper-title-number-5
 excerpt: 'XXX.'

@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 5"
+title: "XXX"
 collection: publications
 permalink: /publication/2014-paper-title-number-5
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'XXX.'
 date: 2014-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'

@@ -1,14 +1,14 @@
 ---
-title: "Paper Title XXX"
+title: "Consumer-Led Development of Novel Sea-Buckthorn Based Beverages"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'XXX.'
-date: 2022-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2016-paper-title-number-5
+excerpt: 'In the context of a growing interest toward foods of local origin, this research explored consumer perceptions of novel sea-buckthorn-based beverages (SBBs), developed by combining sea-buckthorn (hippophae rhamnoides L.) berries in combination with other locally sourced ingredients. Specifically, the aims of the present study were to test how newly developed SBBs were perceived compared to a selected market reference, and to determine their acceptability with a representative sample of the Danish consumer population. Using a combination of consumer-friendly product profiling methods, we investigated which product attributes were associated with different ingredient combinations...'
+date: 2016-05-01
+venue: 'Journal of Sensory Studies'
+paperurl: 'https://doi.org/10.1111/joss.12207'
+citation: 'Geertsen, J. L., Allesen‐Holm, B. H., & Giacalone, D. (2016). Consumer‐Led Development of Novel Sea‐Buckthorn Based Beverages. <i>Journal of Sensory Studies, 31</i>, 245-255.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1111/joss.12207)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Geertsen, J. L., Allesen‐Holm, B. H., & Giacalone, D. (2016). Consumer‐Led Development of Novel Sea‐Buckthorn Based Beverages. <i>Journal of Sensory Studies, 31</i>, 245-255.

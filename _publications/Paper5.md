@@ -9,6 +9,6 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing</i>, 19, 201-218.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/10454446.2013.797946)
 
 Recommended citation: Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing, 19</i>, 201-218.

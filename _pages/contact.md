@@ -2,7 +2,6 @@
 permalink: /contact/
 ---
 
-### Davide Giacalone
 
 Associate Professor
 

@@ -1,15 +1,14 @@
 ---
-title: "Paper Title XXX"
+title: "Investigation of bias of hedonic scores when co-eliciting product attribute information using CATA questions"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'XXX.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2013-paper-title-number-3
+excerpt: 'Sensory and consumer scientists disagree on the practice of concurrently obtaining sensory information in hedonic tests. This is in part due to different mindsets about what consumers are able to do and evidence that such co-elicitation may bias hedonic scores. Check-all-that-apply (CATA) questions have been claimed to have a smaller effect on hedonic scores than other attribute such as just-about-right or intensity scales. In this research, nine studies using consumers as participants examined effects on hedonic product scores when sensory attribute information was co-elicited using CATA questions. The use of CATA concurrently with hedonic was benchmarked against concurrent attribute liking scores, attribute intensity scores and just-about-right scaling. Across a range of product categories...'
+date: 2013-03-01
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2013.06.001'
+citation: 'Jaeger, S. R., Giacalone, D., Roigard, C. M., Pineau, B., Vidal, L., Giménez, A., ... & Ares, G. (2013). Investigation of bias of hedonic scores when co-eliciting product attribute information using CATA questions. <i>Food Quality and Preference, 30</i>, 242-249.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.foodqual.2013.06.001)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Jaeger, S. R., Giacalone, D., Roigard, C. M., Pineau, B., Vidal, L., Giménez, A., ... & Ares, G. (2013). Investigation of bias of hedonic scores when co-eliciting product attribute information using CATA questions. <i>Food Quality and Preference, 30</i>, 242-249.

@@ -1,14 +1,14 @@
 ---
-title: "Paper Title XXX"
+title: "Performance of Flash Profile and Napping with and without training for describing small sensory differences in a model wine"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'XXX.'
-date: 2022-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2016-paper-title-number-4
+excerpt: 'Rapid sensory methods are a convenient alternative to conventional descriptive analysis suitable for quickly assessing sensory product differences. As these methods gain in popularity, assessments of their discriminability and reproducibility in food applications are increasingly needed. Moreover, it is of interest to explore whether small adjustments to the existing protocols could improve the results. In this study different variations of two rapid sensory methods, one based on holistic assessment – Napping, and one based on attribute evaluation – Flash Profile, were tested for the evaluation of the flavour in wine...'
+date: 2016-04-01
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2015.08.008'
+citation: 'Liu, J., Grønbeck, M. S., Di Monaco, R., Giacalone, D., & Bredie, W. L. (2016). Performance of Flash Profile and Napping with and without training for describing small sensory differences in a model wine. <i>Food Quality and Preference, 48</i>, 41-49.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.foodqual.2015.08.008)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Liu, J., Grønbeck, M. S., Di Monaco, R., Giacalone, D., & Bredie, W. L. (2016). Performance of Flash Profile and Napping with and without training for describing small sensory differences in a model wine. <i>Food Quality and Preference, 48</i>, 41-49.

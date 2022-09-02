@@ -6,7 +6,7 @@ excerpt: 'Appropriateness of use evaluations can be used to explore consumers’
 date: 2016-07-01
 venue: 'Journal of Economic Psychology'
 paperurl: 'https://doi.org/10.1016/j.joep.2016.02.005'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Giacalone, D., & Jaeger, S. R. (2016). Better the devil you know? How product familiarity affects usage versatility of foods and beverages. <i>Journal of Economic Psychology, 55</i>, 120-138.'
 ---
 
 [Download paper here](https://doi.org/10.1016/j.joep.2016.02.005)

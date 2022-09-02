@@ -1,14 +1,14 @@
 ---
-title: "Paper Title XXX"
+title: "Perception and Description of Premium Beers by Panels with Different Degrees of Product Expertise"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'XXX.'
-date: 2022-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2016-paper-title-number-2
+excerpt: 'The present study compares subjects with varying degrees of product expertise with regards to their ability to provide a sensory profile of beverages. Eight premium beers were evaluated by three different panels using a Napping® test, followed by a descriptive task. Two panels were constituted of consumers, classified according to their self-assessed product expertise into “Novices” (N = 14) and “Enthusiasts” (N = 26). The sensory panel at a large brewery, and a group of master brewers constituted the third panel (“Experts”, N = 15).'
+date: 2016-02-01
+venue: 'Beverages'
+paperurl: 'https://www.mdpi.com/2306-5710/2/1/5/pdf?version=1456480793'
+citation: 'Giacalone, D., Ribeiro, L. M., & Frøst, M. B. (2016). Perception and description of premium beers by panels with different degrees of product expertise. <i>Beverages, 2</i>, 5.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.mdpi.com/2306-5710/2/1/5/pdf?version=1456480793)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Giacalone, D., Ribeiro, L. M., & Frøst, M. B. (2016). Perception and description of premium beers by panels with different degrees of product expertise. <i>Beverages, 2</i>, 5.

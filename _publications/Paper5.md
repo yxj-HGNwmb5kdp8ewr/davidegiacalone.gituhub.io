@@ -6,9 +6,9 @@ excerpt: 'Napping® is an inexpensive and rapid method for sensory characterizat
 date: 2013-02-01
 venue: 'Journal of Food Products Marketing'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing</i>. 19, 201-218.'
+citation: 'Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing</i>, 19, 201-218.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing</i>. 19, 201-218.
+Recommended citation: Giacalone, D., Ribeiro, L. M., & Frøst, M.B. (2013). &quot;Consumer-Based Product Profiling: Application of Partial Napping® for Sensory Characterization of Specialty Beers by Novices and Experts.&quot; <i>Journal of Food Products Marketing, 19</i>, 201-218.

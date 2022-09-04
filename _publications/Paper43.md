@@ -6,6 +6,7 @@ excerpt: 'This paper focuses on the effect of the COVID-19 lockdown on the dieta
 date: 2020-07-01
 venue: 'Frontiers in Nutrition'
 paperurl: 'https://doi.org/10.3389/fnut.2020.592112'
+citation: 'Giacalone, D., Frøst, M. B., & Rodríguez-Pérez, C. (2020). Reported changes in dietary habits during the COVID-19 lockdown in the Danish population: the Danish COVIDiet study. <i>Frontiers in Nutrition, 7</i>, 592112.'
 ---
 
 [Download paper here](https://www.frontiersin.org/articles/10.3389/fnut.2020.592112/pdf)

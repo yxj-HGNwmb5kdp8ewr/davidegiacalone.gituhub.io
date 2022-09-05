@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Barriers to consumption of plant-based beverages: A comparison of product users and non-users on emotional, conceptual, situational, conative and psychographic variables"
 collection: publications
 permalink: /publication/2021-paper-title-number-5
-excerpt: 'XXX.'
+excerpt: 'Production and consumption practices that reduce the environmental burden of eating and drinking and promote global sustainability are of paramount interest. Against this background, we present a quantitative study of US adults’ perceptions of selected non-alcoholic beverages including pairs of regular and plant-based alternatives (iced coffee/iced coffee with almond milk, fruit smoothie/fruit smoothie with soy milk and cow’s milk/oat milk). Particular focus was directed to comparing product perceptions of consumers who never consumed these plant-based alternatives with those who did (n = 249 and n = 274), as a means for contextualising the barriers that hinder uptake among non-users...'
 date: 2021-05-01
-venue: 'Journal 1'
+venue: 'Food Research International'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Jaeger, S. R., & Giacalone, D. (2021). Barriers to consumption of plant-based beverages: A comparison of product non-users and users on emotional, conceptual, situational, conative and psychographic variables. <i>Food Research International, 144</i>, 110363.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Abstract 
+Production and consumption practices that reduce the environmental burden of eating and drinking and promote global sustainability are of paramount interest. Against this background, we present a quantitative study of US adults’ perceptions of selected non-alcoholic beverages including pairs of regular and plant-based alternatives (iced coffee/iced coffee with almond milk, fruit smoothie/fruit smoothie with soy milk and cow’s milk/oat milk). Particular focus was directed to comparing product perceptions of consumers who never consumed these plant-based alternatives with those who did (n = 249 and n = 274), as a means for contextualising the barriers that hinder uptake among non-users. The data were collected via an online survey with a multi-response empirical strategy where the beverages were characterised using a large set of emotional, conceptual, situational, and attitudinal/behavioural variables. Fitting expectations, negative associations were dominant in the group of consumers who never consumed the plant-based beverage variants. However, these associations were product dependent and decreased in the order: oat milk, fruit smoothie with soy milk and iced coffee with almond milk. This pointed to a likely interplay of sensory properties, situational appropriateness and household routines. Food neophobia negatively influenced perceptions of less familiar products, including but not limited to plant-based beverages. While the research was limited to a small number of beverages and plant-based alternatives, it identified the important role that in-depth and product-specific investigations have in helping to uncover and overcome barriers to sustainable eating and drinking solutions. 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Jaeger, S. R., & Giacalone, D. (2021). Barriers to consumption of plant-based beverages: A comparison of product non-users and users on emotional, conceptual, situational, conative and psychographic variables. <i>Food Research International, 144</i>, 110363.

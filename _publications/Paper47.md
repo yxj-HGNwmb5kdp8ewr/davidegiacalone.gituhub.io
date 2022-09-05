@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Impact of COVID-19 confinement on eating behaviours across 16 European countries: the COVIDiet cross-national study"
 collection: publications
 permalink: /publication/2021-paper-title-number-4
-excerpt: 'XXX.'
+excerpt: 'We aimed to evaluate the changes in eating behaviours of the adult population across 16 European countries due to the COVID-19 confinement and to evaluate whether these changes were somehow related to the severity of the containment measures applied in each country. An anonymous online self-reported questionnaire on socio-demographic characteristics, validated 14-items Mediterranean diet (MedDiet) Adherence Screener (MEDAS) as a reference of a healthy diet, eating and lifestyle behaviours prior to and during the COVID-19 confinement was used to collect data...'
 date: 2021-04-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2021.104231'
+citation: 'Molina-Montes, E., et al. (2021). Impact of COVID-19 confinement on eating behaviours across 16 European countries: the COVIDiet cross-national study. <i>Food Quality and Preference, 93</i>, 104231.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.foodqual.2021.104231)
 
-Abstract 
+We aimed to evaluate the changes in eating behaviours of the adult population across 16 European countries due to the COVID-19 confinement and to evaluate whether these changes were somehow related to the severity of the containment measures applied in each country. An anonymous online self-reported questionnaire on socio-demographic characteristics, validated 14-items Mediterranean diet (MedDiet) Adherence Screener (MEDAS) as a reference of a healthy diet, eating and lifestyle behaviours prior to and during the COVID-19 confinement was used to collect data. The study included an adult population residing in 16 European countries at the time of the survey. Aggregated Stringency Index (SI) score, based on data from the Oxford COVID-19 Government Response Tracker, was calculated for each country at the time the questionnaire was distributed (range: 0–100). A total of 36,185 participants completed the questionnaire (77.6% female, 75.2% with high educational level and 42.7% aged between 21 and 35 years). In comparison to pre-confinement, a significantly higher adherence to the MedDiet during the confinement was observed across all countries (overall MEDAS score prior to- and during confinement: 5.23 ± 2.06 vs. 6.15 ± 2.06; p < 0.001), with the largest increase seen in Greece and North Macedonia. The highest adherence to MedDiet during confinement was found in Spain and Portugal (7.18 ± 1.84 and 7.34 ± 1.95, respectively). Stricter contingency restrictions seemed to lead to a significantly higher increase in the adherence to the MedDiet. The findings from this cross-sectional study could be used to inform current diet-related public health guidelines to ensure optimal nutrition is followed among the population, which in turn would help to alleviate the current public health crisis. 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Molina-Montes, E., et al. (2021). Impact of COVID-19 confinement on eating behaviours across 16 European countries: the COVIDiet cross-national study. <i>Food Quality and Preference, 93</i>, 104231.

@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Consumer segmentation based on situational appropriateness ratings: Partial replication and extension"
 collection: publications
 permalink: /publication/2021-paper-title-number-2
-excerpt: 'XXX.'
+excerpt: 'Perceived situational appropriateness crucially informs decisions about what to eat and drink, and this contextual-cognitive factor of food choice helps to understand why in certain situations, despite high acceptability, a non-consumption decision is made. Being shaped primarily by accumulated experience and familiarity, appropriateness is influenced by culture, but inter-individual variability within populations also exists...'
 date: 2021-02-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2020.104057'
+citation: 'Jaeger, S. R., Roigard, C. M., Ryan, G., Jin, D., & Giacalone, D. (2021). Consumer segmentation based on situational appropriateness ratings: Partial replication and extension. <i>Food Quality and Preference, 87</i>, 104057.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.foodqual.2020.104057)
 
-Abstract 
+Perceived situational appropriateness crucially informs decisions about what to eat and drink, and this contextual-cognitive factor of food choice helps to understand why in certain situations, despite high acceptability, a non-consumption decision is made. Being shaped primarily by accumulated experience and familiarity, appropriateness is influenced by culture, but inter-individual variability within populations also exists. Consumer segmentation based on appropriateness ratings was recently reported in work with Australian consumers, with segment differences relating to how adaptive or conforming consumers’ perceptions were of appropriateness for a range of foods and beverages (F&B) for use in daily main eating occasions [Jaeger et al.; Fd. Qual. Pref., 2019, e103701]. Believing in the strength and value of cumulative evidence, the present research was informed by the broad paradigm of replication and extension. This directed that empirical execution, data analysis and reporting strategy directly and extensively defined this work. In two studies with consumers from Denmark (n = 780) and New Zealand (NZ, n = 448), partial replication was achieved for situationally Adaptive and Conforming consumer segments in regard to breakfast, lunch and dinner (morning, midday and evening meals, respectively). Extending to three different eating occasions in NZ, partial replication of Adaptive and Conforming consumer segments was obtained. It appeared that these segments exist for some but not all eating occasions and that cultural differences are also at play. The present research also replicated the relationship between perceived appropriateness and F&B liking/disliking, whereby liked products can be both appropriate and inappropriate, depending on the eating occasions. Consumer segments based on appropriateness ratings had similar profiles, which also replicated Jaeger et al. (2019). 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Jaeger, S. R., Roigard, C. M., Ryan, G., Jin, D., & Giacalone, D. (2021). Consumer segmentation based on situational appropriateness ratings: Partial replication and extension. <i>Food Quality and Preference, 87</i>, 104057.

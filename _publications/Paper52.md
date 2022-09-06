@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "“Beyond liking” measures in food-related consumer research supplement hedonic responses and improve ability to predict consumption"
 collection: publications
 permalink: /publication/2022-paper-title-number-3
-excerpt: 'XXX.'
+excerpt: 'Sensory and consumer science is concerned with measuring perceptual and affective responses to consumer products. Historically, hedonic responses (degree of liking or preference for a set of test products) have been the primary measure of product performance in food-related consumer research, but recent years have seen an increase in the uptake of perceptual measures that go “beyond liking”, with interest primarily focusing on product-elicited emotions, conceptualisations and situational appropriateness. Although the ultimate purpose of collecting such responses is that they are predictive of what consumers will like, choose and consume in their everyday life, such data are very rarely validated against actual consumer behaviour...'
 date: 2022-03-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2021.104459'
+citation: 'Giacalone, D., Llobell, F., & Jaeger, S. R. (2022). “Beyond liking” measures in food-related consumer research supplement hedonic responses and improve ability to predict consumption. <i>Food Quality and Preference, 97</i>, 104459.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0950329321003414/pdfft?isDTMRedir=true&download=true)
 
-Abstract 
+Sensory and consumer science is concerned with measuring perceptual and affective responses to consumer products. Historically, hedonic responses (degree of liking or preference for a set of test products) have been the primary measure of product performance in food-related consumer research, but recent years have seen an increase in the uptake of perceptual measures that go “beyond liking”, with interest primarily focusing on product-elicited emotions, conceptualisations and situational appropriateness. Although the ultimate purpose of collecting such responses is that they are predictive of what consumers will like, choose and consume in their everyday life, such data are very rarely validated against actual consumer behaviour. Against this backdrop, the present research aimed to evaluate the ability of emotional, conceptual, and situational appropriateness responses to predict a behaviourally relevant measure of product performance – frequency of past consumption. Two (online) consumer studies were conducted with US adults, using salads (Study 1, n = 606) and non-alcoholic beverages (Study 2, n = 603) as product categories. In each study, the predictive ability of each set of measures was benchmarked against that of expected liking to identify the optimal (most predictive of consumption) combination of product-related measures. Both studies provided evidence that all included measures (liking, emotional, conceptual, and situational responses) were significantly correlated with frequency of past consumption, and importantly, that inclusion of “beyond liking” measures improved behavioural prediction over and above models based on hedonic responses only. These findings confirmed that liking in and of itself is insufficient as a predictor of consumption and supported calls for the purposeful combination of different response types using “global” or multi-response approaches. Differences between the two studies pertaining to the relative importance of liking and the best combination of predictors were uncovered, suggesting that the optimal combination of “beyond liking” measures in practical applications is likely to be study-specific.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Giacalone, D., Llobell, F., & Jaeger, S. R. (2022). “Beyond liking” measures in food-related consumer research supplement hedonic responses and improve ability to predict consumption. <i>Food Quality and Preference, 97</i>, 104459.

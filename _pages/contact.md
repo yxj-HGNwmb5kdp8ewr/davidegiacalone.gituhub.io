@@ -3,12 +3,14 @@ permalink: /contact/
 ---
 
 
-Davide Giacalone
+**Davide Giacalone**
 
 Associate Professor
-SDU Innovation and Design Engineering
+
 Department of Technology and Innovation, Faculty of Engineering
+
 University of Southern Denmark
+
 Campusvej 55, DK-5230 Odense M
 
 

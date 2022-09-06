@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Understanding barriers to consumption of plant-based foods and beverages: Insights from sensory and consumer science"
 collection: publications
 permalink: /publication/2022-paper-title-number-12
-excerpt: 'XXX.'
+excerpt: 'Plant-based meat and dairy alternatives are a growing trend with potential for contributing to improving the sustainability of global food systems. Despite sustained growth and interest, these products are still niche in most Western countries. From a sensory perspective, meat and dairy products possess unique flavor and textural properties that are not easily replicated in plant-based alternatives...'
 date: 2022-12-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Current Opinion in Food Science'
+paperurl: 'https://doi.org/10.1016/j.cofs.2022.100919'
+citation: 'Giacalone, D., Clausen, M. P. & Jaeger, S. R. (In press). Understanding barriers to consumption of plant-based foods and beverages: Insights from sensory and consumer science. <i>Current Opinion in Food Science</i>, DOI: https://doi.org/10.1016/j.cofs.2022.100919.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2214799322001217/pdfft?isDTMRedir=true&download=truef)
 
-Abstract 
+Plant-based meat and dairy alternatives are a growing trend with potential for contributing to improving the sustainability of global food systems. Despite sustained growth and interest, these products are still niche in most Western countries. From a sensory perspective, meat and dairy products possess unique flavor and textural properties that are not easily replicated in plant-based alternatives. The first part of this short review focuses on current challenges and strategies to improve the sensory quality of these products which, despite advances, overall remain inferior to dairy and meat products. The second part highlights the need for a deeper integration of sensory and non-sensory factors, and the consideration of individual differences underlying consumer acceptance of plant-based products. In closing, we argue that future product development and public health efforts should move away from “one size fits all” and towards targeted approaches catering to different consumer groups. 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Giacalone, D., Clausen, M. P. & Jaeger, S. R. (In press). Understanding barriers to consumption of plant-based foods and beverages: Insights from sensory and consumer science. <i>Current Opinion in Food Science</i>, DOI: https://doi.org/10.1016/j.cofs.2022.100919.

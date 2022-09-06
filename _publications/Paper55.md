@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Plant-based alternatives vs. dairy milk: Consumer segments and their sensory, emotional, cognitive and situational use responses to tasted products"
 collection: publications
 permalink: /publication/2022-paper-title-number-6
-excerpt: 'XXX.'
+excerpt: 'Plant-based alternatives to dairy milk are becoming more popular in many parts of the world. The present research explored this product category using a multi-variable research strategy where consumers from New Zealand (n = 345) tasted samples for degree of liking/disliking and described their perceived sensory, emotional/cognitive and situational use characteristics using check-all-that-apply (CATA) questions...'
 date: 2022-06-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2022.104599'
+citation: 'Cardello, A. V., Llobell, F. Giacalone, D., Roigard, C. M., & Jaeger, S. R. (2022). Plant-based alternatives vs. dairy milk: Consumer segments and their sensory, emotional, cognitive and situational use responses to tasted products. <i>Food Quality and Preference, 100</i>, 104599.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1016/j.foodqual.2022.104599)
 
-Abstract 
+Plant-based alternatives to dairy milk are becoming more popular in many parts of the world. The present research explored this product category using a multi-variable research strategy where consumers from New Zealand (n = 345) tasted samples for degree of liking/disliking and described their perceived sensory, emotional/cognitive and situational use characteristics using check-all-that-apply (CATA) questions. A total of 10 products were included in the study, three of which were dairy-based (cow’s milk, two at 3.4% fat and one at 0.1% fat), while the remaining seven products were a blend of three plant-based ingredients (coconut, rice and oats) or made from either soy, oat, rice or cashew nuts (including variations for sweetened/unsweetened products and reduced-fat products). Across all participants, the full-fat dairy milks were most liked, but heterogeneity was apparent, especially for the plant-based alternatives. Four consumer segments were identified that fell along a continuum from those people who exclusively liked full-fat dairy products (n = 107) to those who preferred a wide range of plant-based products (n = 111), with two smaller intermediary clusters, Dairy and tri-blend Likers (n = 55) and Full-fat dairy / tri-blend / soy Likers (n = 72). Each cluster had distinct and characterising sensory, emotional/cognitive and situational uses for the tested dairy and plant-based beverages, and penalty/lift analysis was used to determine how these positively or negatively impacted product liking. The penalty/lift analysis was supplemented with a test that for each CATA term (sensory, emotional/cognitive, situational use) enabled a comparison of the four clusters to understand for which of these the effect on liking scores was larger/smaller. Overall, the present research contributed new knowledge for plant-based beverages (which remain understudied relative to plant-based meat alternatives) by providing detailed product insights into a broad range of tasted samples, showing that complex consumer preference segmentation exists, driven by a combination of sensory, emotional/cognitive, and situational use perceptions. 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Cardello, A. V., Llobell, F. Giacalone, D., Roigard, C. M., & Jaeger, S. R. (2022). Plant-based alternatives vs. dairy milk: Consumer segments and their sensory, emotional, cognitive and situational use responses to tasted products. <i>Food Quality and Preference, 100</i>, 104599.

@@ -1,16 +1,16 @@
 ---
-title: "Paper Title XXX"
+title: "Pairing coffee with basic tastes and real foods changes perceived sensory quality and consumer liking"
 collection: publications
 permalink: /publication/2022-paper-title-number-11
-excerpt: 'XXX.'
+excerpt: 'Coffee has, like wine and beer, a wide aroma spectrum, yet coffee-food pairings have not found their way into the menu of fine restaurants and the scientific literature. It is still unknown why certain beverage-food pairings are a match. The aim of this study is twofold: first, we characterize four coffees by sensory descriptive analysis (DA) where assessors evaluated samples before and after tasting aqueous solutions representing five basic tastes (BT); secondly, we investigate consumers’ liking of the same four coffees, both in isolation and when paired with a sweet or savory food...'
 date: 2022-11-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'International Journal of Gastronomy and Food Science'
+paperurl: 'https://doi.org/10.1016/j.ijgfs.2022.100591'
+citation: 'Rune, C. J. B., Münchow, M., Perez-Cueto, F. A., & Giacalone, D. (In press). Pairing coffee with basic tastes and real foods changes perceived sensory quality and consumer liking. <i>International Journal of Gastronomy and Food Science</i>, DOI: https://doi.org/10.1016/j.ijgfs.2022.100591.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1878450X22001263/pdfft?md5=865cda62aef7c4562c4d498701c06bca&pid=1-s2.0-S1878450X22001263-main.pdf)
 
-Abstract 
+Coffee has, like wine and beer, a wide aroma spectrum, yet coffee-food pairings have not found their way into the menu of fine restaurants and the scientific literature. It is still unknown why certain beverage-food pairings are a match. The aim of this study is twofold: first, we characterize four coffees by sensory descriptive analysis (DA) where assessors evaluated samples before and after tasting aqueous solutions representing five basic tastes (BT); secondly, we investigate consumers’ liking of the same four coffees, both in isolation and when paired with a sweet or savory food. The DA results showed that exposure to all BT influenced the subsequent perceived attribute intensity of coffee; however, the direction of the effect was dependent on the BT, the coffee, and the specific sensory attribute. Most sensory attribute intensities decreased after exposure to the BT, only exposure to the BT bitter increased the intensity of more attributes than it decreased. The consumer test showed that preference for the coffee were mostly related to intrinsic characteristics of the samples as over half of the data variance in consumer liking (56%) related to the difference between samples described by fruity, floral and berry attributes, and samples described by chocolate, nutty and sweet attributes. Pairing coffee with either sweet or savory food accounted for an additional 20% of the variance in liking. Drivers of liking were sample-specific, with one common denominator: when consumers perceive the coffee as sour, they liked it significantly less. Overall, with respect to coffee-food pairing, coffee characterized as having chocolate, nutty, sweet notes are more suitable to be paired with food than coffees characterized as fruity, floral, berry. 
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Rune, C. J. B., Münchow, M., Perez-Cueto, F. A., & Giacalone, D. (In press). Pairing coffee with basic tastes and real foods changes perceived sensory quality and consumer liking. <i>International Journal of Gastronomy and Food Science</i>, DOI: https://doi.org/10.1016/j.ijgfs.2022.100591.

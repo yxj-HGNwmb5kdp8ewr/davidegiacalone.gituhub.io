@@ -1,8 +1,4 @@
 ---
-permalink: /
-title: "Research"
-excerpt: "About me"
-author_profile: false
 redirect_from: 
   - /research/
   - /research.html

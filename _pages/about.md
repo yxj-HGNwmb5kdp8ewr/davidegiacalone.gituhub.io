@@ -16,4 +16,4 @@ Research in my group addresses societal challenges related to eating and drinkin
 
 What you will find in these pages
 ------
-Nothing too fancy as I have just started dabbling in html and markdown :). Right now you can information on my [research](/_pages/research.md) and [teaching activities](/_pages/teaching.md). You can also read and download [my full cv](/_pages/cv.md) and most of my [publications](/_pages/publications.md).
+Nothing too fancy as I have just started dabbling in html and markdown :). Right now you can information on my [research](https://yxj-hgnwmb5kdp8ewr.github.io/research/) and [teaching activities](/teaching.md). You can also read and download [my full cv](/cv.md) and most of my [publications](/publications.md).

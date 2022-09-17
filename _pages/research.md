@@ -7,7 +7,7 @@ author_profile: true
 
 I am researcher in the field of sensory and consumer science, i.e., the study of human perception of food and other consumer products. It is a highly interdisciplinary field that combines food analysis, experimental psychology, physiology, behavioral science and statistics. This interdisciplinarity is a challenge but it makes sensory and consumer science highly relevant to tackle real-world industrial problems (e.g., which characteristics should a product has in order to be succesful in the market) and important societal challenges (e.g., how can we more eating habits in a more sustainable direction). 
 
-I have been involved in a wide variety of projects, but generally my research follows three main streams:
+My research follows three main streams:
 
 ### 1. How to measure consumer responses to products (and with whom)
 This research stream includes applied and fundamental work on characterizing food products with both consumers and expert panels. When I started out, there was a strong belief in the field that only highly trained experts could give valid information about products, and that consumers else could only tell you whether they like or dislike something. My research has contributed, together with that of others, towards a shift towards a more nuanced view on human capabilities for sensory evaluation, and to understand how untrained and semi-trained assessors can generate valuable data, provided that the methods are fine-tuned accordingly. I am especially interested in methodological work to develop best-practices in applied product testing, in order to fit different situations and different types of assessors. 

@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 My work and research
 ======
 My field of research is sensory and consumer science, that is, the study of human perception of food and other consumer products. It is a highly interdisciplinary field that combines food analysis, experimental psychology, physiology, behavioral science and statistics. This interdisciplinarity is a challenge but it makes sensory and consumer science highly relevant to tackle real-world industrial problems (e.g., which charcteristics should a product has in order to be succesful in the market) and tackling societal challenges (e.g., how can we more eating habits in a more sustainable direction). 

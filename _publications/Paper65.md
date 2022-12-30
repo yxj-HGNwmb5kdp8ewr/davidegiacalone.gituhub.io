@@ -1,0 +1,16 @@
+---
+title: "Variations in oral responsiveness associate with specific signatures in the gut microbiota and modulate dietary habits"
+collection: publications
+permalink: /publication/2023-paper-title-number-2
+excerpt: 'Mounting evidence suggests that ingestive behaviors may also be affected by putative interplays between taste and gut microbiota. As yet empirically unproven, we here tested the hypothesis that variations in sensory perception in foods can mirror gut microbial ecology and shape individual dietary habits. One hundred healthy participants (52 % women, 18–30 y/o) remotely attended a 7-day (D) lasting protocol....'
+date: 2023-01-02
+venue: 'Food Quality and Preference'
+paperurl: 'https://doi.org/10.1016/j.foodqual.2022.104790'
+citation: 'Menghi, L., Cliceri, D., Fava, F., Pindo, M., Gaudioso, G., Stefani, E., Giacalone, D., & Gasperi, F. (2022). Variations in oral responsiveness associate with specific signatures in the gut microbiota and modulate dietary habits. <i>Food Quality and Preference, 106</i>, 104790.'
+---
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0950329322002658/pdfft?md5=82c7ce92797ff84e96e6e01948cdee0d&pid=1-s2.0-S0950329322002658-main.pdf)
+
+Mounting evidence suggests that ingestive behaviors may also be affected by putative interplays between taste and gut microbiota. As yet empirically unproven, we here tested the hypothesis that variations in sensory perception in foods can mirror gut microbial ecology and shape individual dietary habits. One hundred healthy participants (52 % women, 18–30 y/o) remotely attended a 7-day (D) lasting protocol, and evaluated bitterness (D1) of 6-n-propylthiouracil (PROP) plus liking (D2) and intensity of sensations (D4) evoked by 5 liquid and 5 solid foods, each selected to elicit a target sensation (sweet, sour, bitter, salty, pungent). Furthermore, volunteers completed a battery of psychological questionnaires (D3), a 4-day dietary record (D1–D7), and provided one stool sample for fecal microbiota profiling by 16S rRNA gene sequencing (D4). Using a data-driven segmentation approach based on intensity scores, we identified two distinct profiles that were hypo- (CL-1, n = 36, 55.5 % women) and hyperresponsive (CL-2, n = 64, 50 % women) to oral stimulations. Moreover, CL-2 showed higher percentages of PROP Medium Tasters and pronounced pleasure-oriented attitudes. Interestingly, CL-1 exhibited higher α-diversity metrics and was enriched in 11 beneficial gut microbes (e.g., genus Eubacterium_xylanophilum_group), while two pro-inflammatory microbial genera (Ruminococcus gnavus group, Eggerthella) associated with CL-2. Relatedly, CL-1 declared higher intakes of fibers and vegetable proteins, whilst CL-2 habitually consumed more saturated fats. We provide the first empirical evidence that simultaneous variations in sensory acuity and gut microbial consortia associate with different dietary habits, thus paving the way for unravelling the complex link between host-related non-genetic factors and aetiology of eating behaviors.
+
+Recommended citation: Menghi, L., Cliceri, D., Fava, F., Pindo, M., Gaudioso, G., Stefani, E., Giacalone, D., & Gasperi, F. (2022). Variations in oral responsiveness associate with specific signatures in the gut microbiota and modulate dietary habits. <i>Food Quality and Preference, 106</i>, 104790.
